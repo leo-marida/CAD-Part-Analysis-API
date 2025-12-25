@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CadabraTest3", "CadabraTest3", "{1651530D-97E4-BA0B-D0BF-09712D5BA2BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadabraTest.API", "CadabraTest3\CadabraTest.API\CadabraTest.API.csproj", "{DCDFEA1D-EC4D-522E-7540-04F0F2A3BBF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCDFEA1D-EC4D-522E-7540-04F0F2A3BBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDFEA1D-EC4D-522E-7540-04F0F2A3BBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDFEA1D-EC4D-522E-7540-04F0F2A3BBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDFEA1D-EC4D-522E-7540-04F0F2A3BBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DCDFEA1D-EC4D-522E-7540-04F0F2A3BBF8} = {1651530D-97E4-BA0B-D0BF-09712D5BA2BD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22BC39F7-1483-47FE-83E1-1D7ED2CF1BE8}
+	EndGlobalSection
+EndGlobal
